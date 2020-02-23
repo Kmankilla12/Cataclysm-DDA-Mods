@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "morerealguns",
+    "name": "More Real Guns",
+    "authors": [ "Kmankilla12" ],
+    "maintainers": [ "Kmankilla12" ],
+    "description": "This mod add more realistic guns, and some of the lesser known guns.",
+    "category": "items",
+    "dependencies": [ "dda" ],
+    "obsolete": true
+  }
+]
